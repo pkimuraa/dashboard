@@ -1,3 +1,8 @@
 <template>
-  <div>aasdasd</div>
+  <div>
+    <Sidebar />
+  </div>
 </template>
+
+<script>
+</script>
